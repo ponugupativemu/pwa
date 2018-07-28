@@ -1,0 +1,45 @@
+{
+  "dets":{
+   "image":"pk1.jpg",
+   "name":"VEMU.P",
+   "phno":"9966494716",
+   "mail":"VEMU.P1999@gmail.com",
+   "Address":"Vidhyadharapuram Vijayawada"
+ },
+  "Career":{
+    "text":"I want to get a job in Google, headQuaters"
+  },
+  "Education":[
+  {
+    "qualification":"B.Tech",
+    "institute":"Mic College",
+    "year":"2016-2020",
+    "percentage":"89%"
+    },
+    {
+      "qualification":"Intermediate",
+      "institute":"Narayana Junior College",
+      "year":"2016",
+      "percentage":"89.2%"
+      },
+      {
+        "qualification":"SSC",
+        "institute":"L.P.C.T. Gujarathi Vidhyala",
+        "year":"2014",
+        "percentage":"86%"
+    }
+  ],
+  "skills":[{
+    "title":"Programming Langs",
+    "info":["C,C++,Java,Ruby,Python,JavaScript"]
+  },
+  {
+    "title":"Data-Bases",
+    "info":["SQL,MySQL,Oracle"]
+  },
+  {
+    "title":"Operating-Systems",
+    "info":["Windows,Kali Linux,Mac"]
+    }
+  ]
+}

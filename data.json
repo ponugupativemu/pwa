@@ -1,0 +1,28 @@
+{"details":{
+  "image":"profile.png",
+  "name":"venkatakrishna",
+  "phonenum:":"+91-456982657",
+  "email":"venkatakrishna@gmail.com",
+  "address":"NH 9, Hyderabad Road, Kanchikacherla, Andhra Pradesh 521180"
+},
+"career":{
+  "info":"to purse a challeging carrer"
+},
+
+
+"education":[
+  {
+    "qualification":"b.tech",
+    "institute":"MIC COLLEGE",
+    "year":"2016-2020",
+    "percentage":"80"
+  },
+
+
+{    "qualification":"intermediate",
+      "institute":"narayana college",
+      "year":"2014-2016",
+      "percentage":"9.0"
+}
+]
+}
